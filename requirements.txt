@@ -1,0 +1,7 @@
+# building the tapes (build.py, z80/) and trying the networks on a PC (reference/)
+numpy>=1.26
+# training (train/): PyTorch with CUDA for your graphics card, numba for J's notebook, pyarrow for two of J's
+# dialogue sets
+torch>=2.3
+numba>=0.59
+pyarrow>=15
